@@ -20,3 +20,4 @@ As questões 5 e 11 foram digitadas, e por isso estão em formato .txt
 
 Um repositório no Github foi feito para ter todos os arquivos correspondentes ao trabalho.
 
+https://github.com/jotaele777/Trabalho-estatistica-R
