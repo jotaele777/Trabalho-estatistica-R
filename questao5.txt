@@ -1,0 +1,4 @@
+# Questão 5 - Justifique a escolha do gráfico utilizado no item anterior.
+O Histograma é a melhor escolha pois a variável Chande de Admissão é uma variável quantitativa contínua!
+O Uso do gráfico de barras nesse caso seria incorreto, pois é melhor utilizado para denotar dados quantitativos discretos.
+Como os dados dessa variável são representados por valores decimais numéricos, entre 0.34 e 0.97, o histograma é a melhor escolha.

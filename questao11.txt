@@ -1,0 +1,6 @@
+Sim, existe uma diferença no comportamento da variável CHA de acordo com as diferentes classificações!
+O boxplot mostra claramente que quanto maior a classificação da universidade (CLA), maiores são as chances de admissão (CHA) dos 
+estudantes.
+A mediana (linha central das caixas) sobe progressivamente do nível 1 até ao nível 5. Além disso, é possível notar alguns "outliers" 
+na parte inferior dos níveis maiores, o que denota que existem alguns poucos alunos com chances mais baixas do que o padrão dessas 
+classificações.
